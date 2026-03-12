@@ -1,0 +1,2 @@
+/home/jjy2026/c practice/03.12/build/CMakeFiles/edit_cache.dir
+/home/jjy2026/c practice/03.12/build/CMakeFiles/rebuild_cache.dir
