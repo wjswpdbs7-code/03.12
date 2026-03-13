@@ -1,10 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-project(Project LANGUAGES C)
+project(kuBig2026)
 
-set(CMAKE_C_STANDARD 11)
-set(CMAKE_C_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_STANDARD 17)
 
-# Add any C targets here, for example:
-# add_executable(myprog src/main.c)
-
-add_subdirectory(src)
+add_subdirectory(c_example/part3)

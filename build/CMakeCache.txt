@@ -139,7 +139,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=kuBig2026
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -214,6 +214,15 @@ Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/home/jjy2026/c practice/03.12
+
+//Value Computed by CMake
+kuBig2026_BINARY_DIR:STATIC=/home/jjy2026/c practice/03.12/build
+
+//Value Computed by CMake
+kuBig2026_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+kuBig2026_SOURCE_DIR:STATIC=/home/jjy2026/c practice/03.12
 
 
 ########################
